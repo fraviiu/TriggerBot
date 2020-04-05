@@ -5,7 +5,7 @@
 import os
 
 
-telegram_token = os.environ.get('TELEGRAM_BOT_TOKEN')
+telegram_token = os.environ.get('1242375347:AAFKonipSpPHxNN9Pb2cIdpY5szUBox7ANc')
 
 DB = {
     'host': os.environ.get('ec2-34-192-30-15.compute-1.amazonaws.com'),
